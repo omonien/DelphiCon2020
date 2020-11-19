@@ -1,5 +1,7 @@
 # DelphiCon2020
-Materials as used in my DelphiCon 2020 sessions.
+
+
+<img src="https://github.com/omonien/DelphiCon2020/blob/main/Images/DelphiCon2020.png?raw=true"  style="zoom:25%;" />
 
 ## FireDAC Panel
 A joint session with Cary Jensen, Jens Fudge and myself.
