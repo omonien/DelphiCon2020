@@ -6,4 +6,10 @@
 ## FireDAC Panel
 A joint session with Cary Jensen, Jens Fudge and myself.
 
+### Materials
+
+#### Demo1
+
+Simple VCL demo that illustrates the effect of on-demand fetching combined with RecordCountMode "total" 
+
 ## Firemonkey Panel
