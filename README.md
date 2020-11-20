@@ -12,4 +12,8 @@ A joint session with Cary Jensen, Jens Fudge and myself.
 
 Simple VCL demo that illustrates the effect of on-demand fetching combined with RecordCountMode "total" 
 
+#### InternalCalcFields
+
+Cary's demo on internal calc fields which can be persisted.
+
 ## Firemonkey Panel
